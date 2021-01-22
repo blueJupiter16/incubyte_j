@@ -1,0 +1,12 @@
+File Position,Column_Name,Feild_Length,Data_Type,Mandatory,Key_Column
+1,Name,255,VARCHAR,Y,Y
+2,Cust_I,18,VARCHAR,Y,N
+3,Open_Dt,8,DATE,Y,N
+4,Consul_Dt,8,DATE,N,N
+5,VAC_ID,5,CHAR,N,N
+6,DR_Name,255,CHAR,N,N
+7,State,5,CHAR,N,N
+8,County,5,CHAR,N,N
+9,Postal_Code,5,INT,N,N
+10,DOB,8,DATE,N,N
+11,Flag,1,CHAR,N,N
