@@ -1,6 +1,6 @@
 CREATE TABLE dbName.schemaName.stg_table
   (  
-    Name varchar(255) NOT NULL,  
+    Name varchar(255),  
     Cust_I varchar(18),  
     Open_Dt date,
     Consul_Dt date,
